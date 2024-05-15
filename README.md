@@ -1,4 +1,4 @@
-# SAE31_2023 : Évaluation de menu
+# Évaluation de menu
 
 ## Description du Projet
 Ce projet consiste à évaluer l'efficacité d'un menu d'application en simulant des tests utilisateur et en analysant les résultats pour optimiser la navigation. Réalisé en trinôme, les programmes en Java permettent de visualiser les menus à tester et de synthétiser les résultats des tests.
