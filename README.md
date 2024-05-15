@@ -1,7 +1,7 @@
 # SAE31_2023 : Évaluation de menu
 
 ## Description du Projet
-Ce projet consiste à évaluer l'efficacité d'un menu d'application en simulant des tests utilisateur et en analysant les résultats pour optimiser la navigation. Réalisé en binôme, les programmes en Java permettent de visualiser les menus à tester et de synthétiser les résultats des tests.
+Ce projet consiste à évaluer l'efficacité d'un menu d'application en simulant des tests utilisateur et en analysant les résultats pour optimiser la navigation. Réalisé en trinôme, les programmes en Java permettent de visualiser les menus à tester et de synthétiser les résultats des tests.
 
 ### Contexte
 Dans une application proposant un grand nombre d'actions différentes, il est fréquent de construire un menu qui présente à l'utilisateur toutes les possibilités qui lui sont offertes sous une forme hiérarchique. Cela peut prendre la forme d'une barre de menu pour les actions toujours disponibles, ou d'un menu contextuel pour les actions associées à l'élément d'interface sélectionné. Chaque option dans un menu peut correspondre à une action ou à un sous-menu, ce qui permet d'organiser les actions et d'éviter de proposer des listes trop longues. Le défaut de cette technique est que l'utilisateur risque de ne pas trouver l'action qui l'intéresse car elle est cachée dans un sous-menu. Il est donc très important de rendre la répartition intuitive.
